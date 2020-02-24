@@ -1,0 +1,14 @@
+{
+    "name": "rajesh/voco-base",
+    "description": "Voco Base",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Voco\\": "src/Voco/"
+        }
+    },
+    "minimum-stability": "dev"
+}
